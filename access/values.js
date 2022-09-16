@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "21.05.2004"; // Дата рождения
-var fullname = "Возний Александр Борисович"// ФИО
+var fullname = "Возний Олександр Борисович"// ФИО
 var name = "Имя" // Имя
 
 // Паспорт
